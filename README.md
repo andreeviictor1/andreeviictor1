@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andreeviictor1
+- 👋 Hi, I’m André Azevedo
 - 👀 I’m interested in my first job
 - 🌱 I’m currently learning Python
 - 📫 How to reach me andrev1998@hotmail.com

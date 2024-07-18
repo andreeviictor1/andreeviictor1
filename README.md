@@ -2,7 +2,7 @@
  ### Hi 👋, I'm André Azevedo
 
 - 👀 I’m interested in my first job
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, Javascript and C# 
 - 📫 How to reach me andrev1998@hotmail.com
 
 <!---

@@ -19,7 +19,7 @@
 
 <div align="center"> 
 <a href="https://instagram.com/azv_andre" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/user-attachments/assets/b672299f-ec39-4178-898d-0fb780d599a9">
+<img align="center" height="78" width="78" src="https://github.com/user-attachments/assets/b672299f-ec39-4178-898d-0fb780d599a9">
  
 </a>
 

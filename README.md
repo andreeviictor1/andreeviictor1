@@ -112,19 +112,12 @@
 <br>
 <br>
 
-<p align="center"><b>Visitors Count</b></p> 
+<p align="center"><b></b></p> 
   
-<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fandreeviictor1&s=50&c=2b8dca&bg=000000&no=2&ff=digi&tb=Visitors+Count%3A+&ta=" /></p> 
+<p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fandreeviictor1&s=50&c=2b8dca&bg=00000000&no=2&ff=digi&tb=Visitors+Count%3A+&ta=" /></p> 
 <br>
 </div>
 
-
-<div align="center">
-<h3> If you support me, click here, give me a coffee</h3>
-<a href="https://ko-fi.com/carolinebarbosa" target="_blank">
-<img align="center" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/40af04fc-bc9e-4581-80ee-30124cb5d17d">
-</a>
-</div>
 
 <br>
 <br> 

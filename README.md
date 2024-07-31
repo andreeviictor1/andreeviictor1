@@ -5,9 +5,6 @@
 <br>
 <br> 
 
-<!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&size=50&duration=4000&pause=1000&color=F73D9F&center=true&vCenter=true&random=false&width=1000&lines=Hello%2C+my+name+is+Caroline;I'm+27+years+old;I'm+a+Software+Developer;I'm+from+Brazil;welcome%3A)](https://git.io/typing-svg)
--->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=2B8DCA&center=true&vCenter=true&width=1000&lines=Hello%2C++my+name+is+Andr%C3%A9;I'm+26+years+old;I'm+from+Brazil;I'm+a+Software+Developer;Welcome!)](https://git.io/typing-svg)
 <br>
@@ -15,7 +12,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolbarbosa101&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andreeviictor1&theme=transparent)](https://git.io/streak-stats)
 
 </div>
 

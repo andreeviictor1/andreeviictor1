@@ -60,12 +60,13 @@
 
 <img align="left" height="65" width="65" src="https://github.com/user-attachments/assets/85443211-72af-4871-8cc1-6518bc1c94bb">
 
-<img align="left" height="65" width="65" src="https://github.com/user-attachments/assets/17ebc958-4540-464c-a69a-bd1739607aff">
+<img align="left"  height="65" width="65" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
+
+<img align="left"  height="65" width="65" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/b8182e38-59d0-4707-96dd-57781d7fa0cd">
+
+<img align="left"  height="65" width="65" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/e3520d7c-c3c2-4dff-90e2-86355adc6f7c">
 
 
-<img align="left" height="65" width="65" src="https://github.com/user-attachments/assets/2a9c600d-6ad6-428a-80ad-3c69d68f5090">
-
-<img align="left" height="65" width="65" src="https://github.com/user-attachments/assets/5e3bedea-a0a8-4f6e-ac47-070b77009d3d">
 
 
 

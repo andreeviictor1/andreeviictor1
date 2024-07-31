@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
+
 <img width=100% bottom=50px src="https://github.com/user-attachments/assets/f72f66fd-c1e7-4da4-bad6-e6100b621ddc"/>
 
 <br>

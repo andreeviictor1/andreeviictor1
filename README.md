@@ -19,6 +19,7 @@
 
 <div align="center"> 
 <a href="https://instagram.com/azv_andre" target="_blank">
+  
 <img align="center" height="60" width="60" src="https://github.com/user-attachments/assets/b672299f-ec39-4178-898d-0fb780d599a9">
  
 </a>
@@ -33,9 +34,10 @@
 <img align="center" height="60" width="60" src="https://github.com/user-attachments/assets/6890fe9b-cede-4e56-b19a-54a1c328198e">
 </a>
 
-
-
 </div>
+
+
+
 
 <div align="center" >
    
@@ -43,9 +45,32 @@
 </div>
 
 
+
+
+
 ### Main skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
+<img align="left" height="65" width="65" src="https://github.com/user-attachments/assets/fe10695b-6f4a-4e10-a8f5-81e9c76a4eff">
+
+<img align="left" height="65" width="65" src="https://github.com/user-attachments/assets/42852574-54df-492c-a6f4-4d5774000339">
+
+<img align="left" height="65" width="65" src="https://github.com/user-attachments/assets/c7a903f7-3824-45a8-9b77-a92d2939e3e7">
+
+<img align="left" height="65" width="65" src="https://github.com/user-attachments/assets/e5d5c27a-465f-4a57-a216-4c0559d45c01">
+
+<img align="left" height="65" width="65" src="https://github.com/user-attachments/assets/85443211-72af-4871-8cc1-6518bc1c94bb">
+
+<img align="left" height="65" width="65" src="https://github.com/user-attachments/assets/17ebc958-4540-464c-a69a-bd1739607aff">
+
+
+<img align="left" height="65" width="65" src="https://github.com/user-attachments/assets/2a9c600d-6ad6-428a-80ad-3c69d68f5090">
+
+<img align="left" height="65" width="65" src="https://github.com/user-attachments/assets/5e3bedea-a0a8-4f6e-ac47-070b77009d3d">
+
+
+
+
+
 
 <img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
 

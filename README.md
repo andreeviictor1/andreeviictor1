@@ -12,7 +12,7 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andreeviictor1&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andreeviictor1&theme=transparent&hide_border=true&card_width=800&card_height=200)](https://git.io/streak-stats)
 
 </div>
 

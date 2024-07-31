@@ -19,11 +19,11 @@
 
 <div align="center"> 
 <a href="https://instagram.com/azv_andre" target="_blank">
-<img align="center" height="60" width="60" src="https://github.com/user-attachments/assets/b672299f-ec39-4178-898d-0fb780d599a9">
+<img align="center" height="60" width="60" style="margin: 10px;" src="https://github.com/user-attachments/assets/b672299f-ec39-4178-898d-0fb780d599a9">
  
 </a>
 
-<a href="andrev1998@hotmail.com">
+<a href="mailto:andrev1998@hotmail.com">
 <img align="center" height="60" width="60" src="https://github.com/user-attachments/assets/f4547330-9344-41bf-8150-e1ba0a748484">
 </a>
 

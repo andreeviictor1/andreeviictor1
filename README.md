@@ -94,6 +94,12 @@
 
 <img align="left"  height="65" width="65" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bea3fe91-c320-4c5f-918e-fa6abe8ec1cc">
 
+<img align="left" height="65" width="65" src="https://github.com/user-attachments/assets/fe10695b-6f4a-4e10-a8f5-81e9c76a4eff">
+
+<img align="left" height="65" width="65" src="https://github.com/user-attachments/assets/c7a903f7-3824-45a8-9b77-a92d2939e3e7">
+
+<img align="left" height="65" width="65" src="https://github.com/user-attachments/assets/79f6311f-cde2-4904-b202-5ad49998e87e">
+
 
 
 </div>

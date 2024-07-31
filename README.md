@@ -18,18 +18,20 @@
 
 
 <div align="center"> 
-    <a href="https://instagram.com/azv_andre" target="_blank" style="margin: 10px;">
-        <img align="center" height="60" width="60" src="https://github.com/user-attachments/assets/b672299f-ec39-4178-898d-0fb780d599a9">
-    </a>
-    
-    <a href="mailto:andrev1998@hotmail.com" style="margin: 10px;">
-        <img align="center" height="60" width="60" src="https://github.com/user-attachments/assets/f4547330-9344-41bf-8150-e1ba0a748484">
-    </a>
-    
-    <a href="https://www.linkedin.com/in/andre-victor-azevedo/" target="_blank" style="margin: 10px;">
-        <img align="center" height="60" width="60" src="https://github.com/user-attachments/assets/6890fe9b-cede-4e56-b19a-54a1c328198e">
-    </a>
-</div>
+<a href="https://instagram.com/azv_andre" target="_blank">
+<img align="center" height="60" width="60" src="https://github.com/user-attachments/assets/b672299f-ec39-4178-898d-0fb780d599a9">
+ 
+</a>
+
+<a href="andrev1998@hotmail.com">
+<img align="center" height="60" width="60" src="https://github.com/user-attachments/assets/f4547330-9344-41bf-8150-e1ba0a748484">
+</a>
+
+
+
+<a  href="https://www.linkedin.com/in/andre-victor-azevedo/" target=_blank>
+<img align="center" height="60" width="60" src="https://github.com/user-attachments/assets/6890fe9b-cede-4e56-b19a-54a1c328198e">
+</a>
 
 
 
